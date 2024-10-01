@@ -16,12 +16,8 @@
 - **Active Pixels**: 3280 (H) x 2464 (V)
 - **Focal Length**: 1.58mm
 - **Field of View (FoV)**: 136° (Horizontal)
-- **Pixel Size**: 1.12 x 1.12 µm
-- **IR Cutter Filter**: Yes
 - **MIPI Data Interface**: CSI-2 (2 lanes)
 - **Max Image Transfer Rate**: 3280 x 2464 @ 21fps
-- **Operating Temperature**: -20°C to +60°C
-- **Storage Temperature**: -30°C to +80°C
 - **Power Supply**: 3.3V
   
 For further technical details, refer to the attached datasheet.
